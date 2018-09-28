@@ -1,12 +1,13 @@
 <html>
 <head>
 <title>my VCS </title>
-<style type="css/stylesheet>
+<style type="css/stylesheet">
 #hello{
 color:blue;
 font-size: 200%;
 }
 </style>
+
 </head>
 <body>
 <div id="hello"> Hello VCS</div>
@@ -37,7 +38,7 @@ font-size: 200%;
                <td>23</td>
                </tr>
                </tbody>
-               </table>
+               </table>            
 
 </body>
 </html>
